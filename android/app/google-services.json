@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217660479758",
+    "project_id": "liveinbuddy-a4cc5",
+    "storage_bucket": "liveinbuddy-a4cc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217660479758:android:09c2ff66ae976ecccddf5f",
+        "android_client_info": {
+          "package_name": "com.example.livein"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD70mj9lWjHAdNolnZo15PsdjchsI6oQGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
